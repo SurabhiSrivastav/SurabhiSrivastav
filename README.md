@@ -14,5 +14,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurabhiSrivastav&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages" />
 
 
----
-[![](https://visitcount.itsvg.in/api?id=SurabhiSrivastav&icon=0&color=0)](https://visitcount.itsvg.in)
+
